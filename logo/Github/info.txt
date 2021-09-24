@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SquadaOne-Regular
+font link: https://fonts.google.com/specimen/Squada+One
+font author: Joe Prince
+font author site: https://dribbble.com/joeprince
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Timofei Rostilov
+icon designer link: /Tima_R
+        
+{"bg-gradient-0":"#122663","bg-gradient-1":"#5DD7AD","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
