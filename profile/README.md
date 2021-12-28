@@ -4,6 +4,8 @@
 
 > Language: [TraditionalChinese](https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README.md) | [English](https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README_en_US.md)
 
+現在也有黏液科技繁體中文的**網站**! [點擊這裡](https://slimetraditionaltranslation.github.io/)
+
 ## 📢 介紹
 
 這是一個非官方的翻譯組織(?) <br>
