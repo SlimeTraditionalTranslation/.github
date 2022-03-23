@@ -1,22 +1,51 @@
-![SlimeTraditionalTranslation-Logo](https://raw.githubusercontent.com/SlimeTraditionalTranslation/.github/main/logo/Github/logo.png)
+<p align="center">
+  <a href="https://slimetraditionaltranslation.github.io/">
+    <img alt="繁體黏液科技網站" src="https://raw.githubusercontent.com/SlimeTraditionalTranslation/.github/main/logo/Github/logo.png" width="998">
+  </a>
+</p>
 
-# 非官方繁體黏液科技
+<h1 align="center" style="margin-top: 0px;">
+  繁體版黏液科技
+</h1>
 
-> Language: [TraditionalChinese](https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README.md) | [English](https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README_en_US.md)
+<h3 align="center">
+  <p>
+    一個非官方並<br>
+    由興趣推動翻譯的團隊<br>
+    讓更多人能懂如何遊玩黏液科技<br>
+    目前已翻譯幾乎所有官方建構頁面上的附加
+  </p>
+<h3>
 
-現在也有黏液科技繁體中文的**網站**! [點擊這裡](https://slimetraditionaltranslation.github.io/)
+<h1 align="center" style="margin-top: 0px;">
+  ✨ Discord ✨
+</h1>
 
-## 📢 介紹
+<h2 align="center">
+  <p>繁體黏液科技 Discord</p>
+  <a href="https://discord.gg/GF4CwjFXT9">
+    <img alt="繁體版黏液科技邀請小工具" src="https://discordapp.com/api/guilds/769186119551156224/widget.png?style=banner2">
+  </a>
+  <br>
+  <p>官方 Slimefun Discord</p>
+  <a href="https://discord.gg/slimefun">
+    <img alt="官方黏液科技邀請小工具" src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner2">
+  </a>
+</h2>
 
-這是一個非官方的翻譯組織(?) <br>
-翻譯了幾乎全部黏液科技相關的附加. <br>
+<h1 align="center" style="margin-top: 0px;">
+  Other Languages
+</h1>
 
-## ✨ Discord
-
-**非官方繁體中文Discord**
-
-[![SlimeTraditionalTranslation Discord](https://discordapp.com/api/guilds/769186119551156224/widget.png?style=banner2)](https://discord.gg/GF4CwjFXT9)
-
-**官方 Slimefun Discord**
-
-[![Slimefun Discord](https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner2)](https://discord.gg/slimefun)
+<h3 align="center">
+  <p>
+    Need other version of<br>
+    SlimeTraditionalTranslation about us?
+  </p>
+  <a href="https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README_en_US.md">
+    <p>English</p>
+  </a>
+  <a href="https://github.com/SlimeTraditionalTranslation/.github/blob/main/profile/README.md">
+    <p>Traditional Chinese</p>
+  </a>
+</h3>
