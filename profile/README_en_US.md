@@ -8,6 +8,14 @@
   SlimeTraditionalTranslation
 </h1>
 
+<h2 align="center">
+  <p>
+    Indefinite Hiatus!<br>
+    If you need to download past translations<br>
+    You can check the <a href="https://github.com/SlimeTraditionalTranslation/builds">build repository</a> and download from the folders.</p>
+  </p>
+<h2>
+
 <h3 align="center">
   <p>
     A team that is unofficial and<br>
