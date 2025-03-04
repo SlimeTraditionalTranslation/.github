@@ -8,6 +8,14 @@
   繁體版黏液科技
 </h1>
 
+<h2 align="center">
+  <p>
+    無限期停更！<br>
+    若有需要下載過往的翻譯<br>
+    可查看<a href="https://github.com/SlimeTraditionalTranslation/builds">建構儲存庫</a>中的資料夾下載
+  </p>
+<h2>
+
 <h3 align="center">
   <p>
     一個非官方並<br>
